@@ -17,11 +17,11 @@ Font Details
 ## Repository Structure
 
 ```text
-serto-chahane-4/
+serto-chahan/
 ├── LICENSE.txt               <-- SIL Open Font License 1.1
 ├── README.md                 <-- Documentation and overview
 ├── fonts/
 │   └── ttf/
-│       └── Serto Chahane 4.ttf  <-- Compiled TrueType binary
+│       └── Serto Chahan.ttf  <-- Compiled TrueType binary
 └── sources/
-    └── Serto Chahane 4.ufo/  <-- UFO source design files
+    └── Serto Chahan.ufo/  <-- UFO source design files
