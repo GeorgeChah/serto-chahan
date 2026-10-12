@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U071aMedi" format="2">
+  <advance width="936"/>
+  <unicode hex="0366"/>
+  <anchor x="-150" y="765" name="Anchor-4"/>
+  <anchor x="510" y="-240" name="Anchor-3"/>
+  <anchor x="525" y="-240" name="Anchor-2"/>
+  <anchor x="750" y="480" name="Anchor-1"/>
+  <anchor x="495" y="615" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-90" y="0" type="line"/>
+      <point x="-90" y="176" type="line"/>
+      <point x="0" y="176" type="line"/>
+      <point x="148" y="176" type="line"/>
+      <point x="135.181" y="252.915"/>
+      <point x="236" y="350" type="qcurve"/>
+      <point x="271" y="341"/>
+      <point x="332" y="307" type="qcurve" smooth="yes"/>
+      <point x="460.93" y="238.83"/>
+      <point x="490" y="171" type="qcurve"/>
+      <point x="489" y="189" type="line"/>
+      <point x="489" y="263"/>
+      <point x="576" y="350" type="qcurve"/>
+      <point x="611" y="341"/>
+      <point x="672" y="307" type="qcurve" smooth="yes"/>
+      <point x="773.919" y="253.112"/>
+      <point x="830" y="176" type="qcurve"/>
+      <point x="939" y="176" type="line"/>
+      <point x="939" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
